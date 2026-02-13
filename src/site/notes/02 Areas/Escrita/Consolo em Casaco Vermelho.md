@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/escrita/consolo-em-casaco-vermelho/"}
+{"dg-publish":true,"permalink":"/02-areas/escrita/consolo-em-casaco-vermelho/","tags":["gardenEntry"]}
 ---
 
 # Consolo em Casaco Vermelho
